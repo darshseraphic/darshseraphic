@@ -1,16 +1,132 @@
-## Hi there 👋
+<h1 align="center">Darshan</h1>
 
-<!--
-**darshseraphic/darshseraphic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full-Stack Developer • UI Designer • App Developer • Web Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building minimal digital experiences focused on clarity, performance,
+  consistency, and thoughtful design.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Developer and designer focused on creating modern software experiences through
+application development, interface systems, and thoughtful product design.
+
+Currently exploring the intersection of:
+
+- Mobile application development
+- Web development
+- UI and UX systems
+- Frontend and backend architecture
+- Workflow and interaction design
+- Motion and animation systems
+- Digital product experiences
+
+Alongside development, also working across:
+
+- Content creation
+- Video editing
+- Visual storytelling
+- Vlogging
+- Creative direction
+
+Focused on building software that feels:
+
+- Minimal
+- Reliable
+- Intentional
+- Distraction-free
+
+---
+
+## Projects
+
+### DoingNow
+
+Minimal habit and routine companion designed to help users build consistency
+through clean workflows, recurring schedules, and focused daily progress.
+
+### Notas
+
+Lightweight note-taking, journaling, and task management system designed around
+simplicity, privacy, and frictionless writing.
+
+### REACNAR
+
+Reaction and reflex training application focused on responsiveness,
+interaction speed, and cognitive performance.
+
+---
+
+## Learning & Exploration
+
+Currently exploring and improving:
+
+- Scalable application architecture
+- Backend systems and APIs
+- Performance optimization
+- Design systems
+- Cross-platform consistency
+- Human-centered digital experiences
+- Spanish
+
+---
+
+## Interests
+
+- Minimal interfaces
+- Product design
+- Productivity systems
+- Motion and animation
+- Visual composition
+- Digital experiences
+- Content creation
+- Cinematic editing
+- Art and athletics
+
+---
+
+## Current Focus
+
+- Building independent applications
+- Improving UI and UX systems
+- Creating scalable product workflows
+- Designing calm and focused digital experiences
+- Exploring modern software architecture
+
+---
+
+## A Bit About Me
+
+Outside of development, I enjoy exploring creativity through design, visuals,
+motion, and storytelling. I like building things that feel intentional,
+minimal, and thoughtfully crafted whether it’s software, interfaces, videos,
+or digital experiences.
+
+I spend most of my time learning, experimenting with ideas, refining
+workflows, and turning concepts into real products. I’m especially interested
+in productivity systems, clean UI design, interaction design, and applications
+that quietly improve everyday life.
+
+Beyond technology, I also enjoy:
+
+- Content creation
+- Cinematic editing
+- Visual composition
+- Art and creative direction
+- Athletics and self-improvement
+
+Currently focused on growing as both a developer and designer while building
+independent projects and exploring modern digital experiences.
+
+---
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  English • Hindi • Marathi • Spanish (Learning)
+</p>
