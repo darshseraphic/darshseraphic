@@ -26,14 +26,6 @@ Currently exploring the intersection of:
 - Motion and animation systems
 - Digital product experiences
 
-Alongside development, also working across:
-
-- Content creation
-- Video editing
-- Visual storytelling
-- Vlogging
-- Creative direction
-
 Focused on building software that feels:
 
 - Minimal
@@ -54,11 +46,6 @@ through clean workflows, recurring schedules, and focused daily progress.
 
 Lightweight note-taking, journaling, and task management system designed around
 simplicity, privacy, and frictionless writing.
-
-### REACNAR
-
-Reaction and reflex training application focused on responsiveness,
-interaction speed, and cognitive performance.
 
 ---
 
