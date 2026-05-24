@@ -37,12 +37,12 @@ Focused on building software that feels:
 
 ## Projects
 
-#### DoingNow
+#### doingnow
 
 Minimal habit and routine companion designed to help users build consistency
 through clean workflows, recurring schedules, and focused daily progress.
 
-#### Notas
+#### notas
 
 Lightweight note-taking, journaling, and task management system designed around
 simplicity, privacy, and frictionless writing.
