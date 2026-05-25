@@ -42,7 +42,7 @@ Focused on building software that feels:
 Minimal habit and routine companion designed to help users build consistency
 through clean workflows, recurring schedules, and focused daily progress.
 
-#### notas
+#### Asrio
 
 Lightweight note-taking, journaling, and task management system designed around
 simplicity, privacy, and frictionless writing.
