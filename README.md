@@ -37,7 +37,7 @@ Focused on building software that feels:
 
 ## Projects
 
-#### doingnow
+ doingnow
 
 Minimal habit and routine companion designed to help users build consistency
 through clean workflows, recurring schedules, and focused daily progress.
