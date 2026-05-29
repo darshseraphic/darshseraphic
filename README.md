@@ -1,7 +1,7 @@
 <h1 align="center">Darshan</h1>
 
 <p align="center">
-  Full-Stack Developer • UI Designer • App Developer • Web Developer
+  Full-Stack Developer • UI Designer • App Developer
 </p>
 
 <p align="center">
