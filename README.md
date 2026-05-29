@@ -10,6 +10,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://ghchart.rshah.org/212529/darshseraphic" alt="darshseraphic's GitHub Contributions" width="100%" style="max-width: 850px;" />
+</p>
+
+---
 
 ## About
 
