@@ -10,9 +10,12 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://ghchart.rshah.org/212529/darshseraphic" alt="darshseraphic's GitHub Contributions" width="100%" style="max-width: 850px;" />
-</p>
+<div style="width: 100%; max-width: 850px; overflow: hidden; height: 110px;">
+  <img src="https://ghchart.rshah.org/212529/darshseraphic" 
+       alt="darshseraphic's GitHub Contributions" 
+       style="margin-top: -25px; margin-left: -35px; width: 110%;" />
+</div>
+
 
 ---
 
