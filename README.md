@@ -4,43 +4,61 @@
   Full-Stack Developer • UI Designer • App Developer
 </p>
 
-<p align="center">
-  Building minimal digital experiences focused on clarity, performance,
-  consistency, and thoughtful design.
-</p>
+<p align="center"><b>
+  Building minimal digital experiences focused on clarity, performance, consistency, and thoughtful design.
+</b></p>
 
- 
-<div style="width: 100%; max-width: 850px; overflow: hidden; height: 110px;">
-  <img src="https://ghchart.rshah.org/212529/darshseraphic" 
-       alt="darshseraphic's GitHub Contributions" 
-       style="margin-top: -25px; margin-left: -35px; width: 110%;" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=darshseraphic&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=darshseraphic&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true"
+  />
+  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=darshseraphic" />
+</picture>
+
+#
+<h2 align="center">About</h2>
+<div align="center">
+Developer and design Minimal-Bruthalism apps focused on modern software experiences through application development, interface systems, and thoughtful product design. 
+</div>
+<br>
+<div align="center">
+<b>
+Currently exploring the intersection of:
+</b>
+</div><br>
+
+<div align="center">
+Mobile application development<br>
+Web development<br>
+UI and UX systems<br>
+Frontend and backend architecture<br>
+Workflow and interaction design<br>
+Motion and animation systems<br>
+Digital product experiences<br>
 </div>
 
-<h2 align="center">About</h2>
+<br>
 
-Developer and designer focused on creating modern software experiences through
-application development, interface systems, and thoughtful product design.
-
-Currently exploring the intersection of:
-
-- Mobile application development
-- Web development
-- UI and UX systems
-- Frontend and backend architecture
-- Workflow and interaction design
-- Motion and animation systems
-- Digital product experiences
-
+<div align="center"><b>
 Focused on building software that feels:
+</b></div>
 
-- Minimal
-- Reliable
-- Intentional
-- Distraction-free
-
+<div align="center">
+Minimal<br>
+Reliable<br>
+Bruthalism<br>
+Intentional<br>
+Privacy-Notch<br>
+Localization-based<br>
+</div>
  
-
-## Projects
+#
+<h2 align="center">Projects</h2>
 
 ### Doingnow
 
@@ -85,60 +103,52 @@ Focused on building software that feels:
 ### Portfolio
 <b>Website:-</b>https://darshseraphic.github.io/<br>
 
-## Learning & Exploration
+#
+<h2 align="center">Exploring And Improving</h2>
+<div align="center">
+  <b>[ Scalable Application Architecture ]</b><br>
+  <b>[ Backend Systems And APIs ]</b><br>
+  <b>[ Performance Optimization ]</b><br>
+  <b>[ Design Systems ]</b><br>
+  <b>[ Cross-Platform Consistency ]</b><br>
+  <b>[ Human-Centered Digital Experiences ]</b><br>
+  <b>[ Spanish ]</b>
+</div>
 
-Currently exploring and improving:
+#
+<h2 align="center">Interests</h2>
+<div align="center">
+ <b>[ Minimal interfaces ]</b><br>
+ <b>[ Product design ]</b><br>
+ <b>[ Productivity Systems ]</b><br>
+ <b>[ Motion And Animation ]</b><br>
+ <b>[ Visual Composition ]</b><br>
+ <b>[ Digital Experiences ]</b><br>
+ <b>[ Content Creation ]</b><br>
+ <b>[ Cinematic Editing ]</b><br>
+ <b>[ Art And Athletics ]</b><br>
 
-- Scalable application architecture
-- Backend systems and APIs
-- Performance optimization
-- Design systems
-- Cross-platform consistency
-- Human-centered digital experiences
-- Spanish
+#
+<h2 align="center">Current Focus</h2>
 
- 
-
-## Interests
-
-- Minimal interfaces
-- Product design
-- Productivity systems
-- Motion and animation
-- Visual composition
-- Digital experiences
-- Content creation
-- Cinematic editing
-- Art and athletics
-
- 
-
-## Current Focus
-
-- Building independent applications
-- Improving UI and UX systems
-- Creating scalable product workflows
-- Designing calm and focused digital experiences
-- Exploring modern software architecture
+ <b>[ Building Independent Applications ]</b><br>
+ <b>[ Improving UI And UX Systems ]</b><br>
+ <b>[ Creating Scalable Product Workflows ]</b><br>
+ <b>[ Designing Calm And Focused Digital Experiences ]</b><br>
+ <b>[ Exploring Modern Software Architecture ]</b><br>
 
  
+#
+<h2 align="center">A Bit About Me</h2>
+<div align="center">
+  Outside of development, I enjoy exploring creativity through design, visuals, motion, and storytelling. I like building things that feel intentional, minimal, and thoughtfully crafted whether it’s software, interfaces, videos, or digital experiences.
+</div>
+<br>
+<div align="center">
+  I spend most of my time learning, experimenting with ideas, refining workflows, and turning concepts into real products. I’m especially interested in productivity systems, clean UI design, interaction design, and applications that quietly improve everyday life. Currently focused on growing as both a developer and designer while building independent projects and exploring modern digital experiences.
+</div>
 
-## A Bit About Me
-
-Outside of development, I enjoy exploring creativity through design, visuals,
-motion, and storytelling. I like building things that feel intentional,
-minimal, and thoughtfully crafted whether it’s software, interfaces, videos,
-or digital experiences.
-
-I spend most of my time learning, experimenting with ideas, refining
-workflows, and turning concepts into real products. I’m especially interested
-in productivity systems, clean UI design, interaction design, and applications
-that quietly improve everyday life.
-Currently focused on growing as both a developer and designer while building
-independent projects and exploring modern digital experiences.
-
- ---
-
+#
 <h3 align="center">Languages</h3>
 
 <p align="center">
