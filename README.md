@@ -47,7 +47,7 @@ Digital product experiences<br>
 <div align="center"><b>
 Focused on building software that feels:
 </b></div>
-
+<br>
 <div align="center">
 Minimal<br>
 Reliable<br>
