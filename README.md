@@ -156,8 +156,14 @@ https://darshseraphic.github.io/Vidador/<br>
 
 <div align="center">
   
-### [ ★ Portfolio ]<br>
-<b>Website:-</b>https://darshseraphic.github.io/<br>
+### [ ★ Portfolio ] 
+<br>
+<b>About</b><br>
+
+Developer and design Minimal-Bruthalism apps focused on modern software experiences through application development, interface systems, and thoughtful product design.
+
+<b>Website</b><br>
+https://darshseraphic.github.io/<br>
 </div>
 
 #
