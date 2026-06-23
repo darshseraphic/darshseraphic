@@ -141,6 +141,22 @@ Students, professionals, creators, and anyone focused on maintaining a healthy, 
 
 <div align="center">
   
+### Luviasun
+
+<b>App Purpose</b><br>
+Consolidates real-time environmental weather telemetry, gyro-stabilized geospatial mapping, localized calendar metric allocation, and a low-overhead terminal arcade benchmark engine into a single monolithic console view.<br>
+
+<b>Target Audience</b><br>
+Minimalists, field operators, power-conscious developers, and tactical dashboard enthusiasts.<br>
+
+[REPOSITORY](https://github.com/darshseraphic/Luviasun) • [RELEASE](https://github.com/darshseraphic/Luviasun/releases/tag/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Luviasun/)
+
+</div>
+
+#
+
+<div align="center">
+  
 ### Portfolio
 
 <b>About</b><br>
