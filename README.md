@@ -201,7 +201,7 @@ https://darshseraphic.github.io/
   I spend most of my time learning, experimenting with ideas, refining workflows, and turning concepts into real products. I’m especially interested in productivity systems, clean UI design, interaction design, and applications that quietly improve everyday life. Currently focused on growing as both a developer and designer while building independent projects and exploring modern digital experiences.
 </div>
 
-<br>
+#
 
 <h3 align="center">Languages</h3>
 <p align="center">
