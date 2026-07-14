@@ -8,19 +8,9 @@
   Building minimal digital experiences focused on clarity, performance, consistency, and thoughtful design.
 </b></p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=darshseraphic&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=darshseraphic&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true"
-  />
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=darshseraphic" />
-</picture>
+![Activity Graph (Dark Mode)](https://github-readme-activity-graph.vercel.app/graph?username=darshseraphic&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true#gh-dark-mode-only)
+![Activity Graph (Light Mode)](https://github-readme-activity-graph.vercel.app/graph?username=darshseraphic&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true#gh-light-mode-only)
 
-#
 <h2 align="center">About</h2>
 <div align="center">
 Developer and design Minimal-Bruthalism apps focused on modern software experiences through application development, interface systems, and thoughtful product design. 
