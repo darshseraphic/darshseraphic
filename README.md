@@ -91,10 +91,10 @@ Runners, sprinters, martial artists, gamers, and high-performance athletes.<br>
 ### Rocen
 
 <b>App Purpose</b><br>
-A minimal, dark-themed utility application featuring tabbed navigation for capturing text entries, voice notes, bookmarks, clipboards, and strategic ideas.<br>
+Rocen is a free, minimalist, security-first workspace for notes, tasks, and ideas — encrypted locally, hardware-bound, and optionally backed up to your own private GitHub repo.<br>
 
 <b>Target Audience</b><br>
-Journalists, writers, artists, photographers, students, and anyone who loves journaling or capturing ideas.<br>
+Privacy-conscious individuals, Security/InfoSec enthusiasts, Open-source, Developers and technical user, Minimalist/brutalist design enthusiasts, and Self-hosters,Journalists, researchers, and professionals<br>
 
 [REPOSITORY](https://github.com/darshseraphic/Rocen) • [RELEASE](https://github.com/darshseraphic/Rocen/releases/tag/v0.2.5) • [WEBSITE](https://rocen.lovable.app/)
 
