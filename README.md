@@ -112,7 +112,7 @@ An elegant, ultra-minimalist financial tracker featuring encrypted local storage
 <b>Target Audience</b><br>
 Students, freelancers, content creators, and privacy-focused individuals who want to track money without sharing data with external servers.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Exomic) • [RELEASE](https://github.com/darshseraphic/Exomic/tree/v0.1.0) • [WEBSITE](https://github.com/darshseraphic/Exomic-web)
+[REPOSITORY](https://github.com/darshseraphic/Exomic) • [RELEASE](https://github.com/darshseraphic/Exomic/tree/v0.1.0) • [WEBSITE](darshseraphic.github.io/Exomic.com/)
 
 </div>
 
@@ -144,7 +144,7 @@ Consolidates real-time environmental weather telemetry, gyro-stabilized geospati
 <b>Target Audience</b><br>
 Minimalists, field operators, power-conscious developers, and tactical dashboard enthusiasts.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Luviasun) • [RELEASE](https://github.com/darshseraphic/Luviasun/releases/tag/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Luviasun/)
+[REPOSITORY](https://github.com/darshseraphic/Luviasun) • [RELEASE](https://github.com/darshseraphic/Luviasun/releases/tag/v0.1.0) • [WEBSITE]([https://darshseraphic.github.io/Luviasun/](https://luviasun.lovable.app))
 
 </div>
 
