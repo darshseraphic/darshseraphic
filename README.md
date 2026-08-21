@@ -144,7 +144,7 @@ Consolidates real-time environmental weather telemetry, gyro-stabilized geospati
 <b>Target Audience</b><br>
 Minimalists, field operators, power-conscious developers, and tactical dashboard enthusiasts.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Luviasun) • [RELEASE](https://github.com/darshseraphic/Luviasun/releases/tag/v0.1.0) • [[WEBSITE](https://luviasun.lovable.app)
+[REPOSITORY](https://github.com/darshseraphic/Luviasun) • [RELEASE](https://github.com/darshseraphic/Luviasun/releases/tag/v0.1.0) • [WEBSITE](https://luviasun.lovable.app)
 
 </div>
 
