@@ -96,7 +96,7 @@ Rocen is a free, minimalist, security-first workspace for notes, tasks, and idea
 <b>Target Audience</b><br>
 Privacy-conscious individuals, Security/InfoSec enthusiasts, Open-source, Developers and technical user, Minimalist/brutalist design enthusiasts, and Self-hosters,Journalists, researchers, and professionals<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Rocen) • [RELEASE]([https://github.com/darshseraphic/Rocen/releases/tag/v0.4.0](https://github.com/darshseraphic/Rocen/releases/tag/v0.4.0)) • [WEBSITE](https://rocen.lovable.app/)
+[REPOSITORY](https://github.com/darshseraphic/Rocen) • [RELEASE](https://github.com/darshseraphic/Rocen/releases/tag/v0.4.0) • [WEBSITE](https://rocen.lovable.app/)
 
 </div>
 
