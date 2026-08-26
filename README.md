@@ -80,7 +80,7 @@ Provides ultra-low-latency, zero-anticipation reflex and reaction training with 
 <b>Target Audience</b><br>
 Runners, sprinters, martial artists, gamers, and high-performance athletes.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Reacnar) • [RELEASE](https://github.com/darshseraphic/Reacnar/releases/tag/v0.1.0) • [WEBSITE](https://rocen.lovable.app/)
+[REPOSITORY](https://github.com/darshseraphic/Reacnar) • [RELEASE](https://github.com/darshseraphic/Reacnar/releases/tag/v0.1.0) • [WEBSITE](https://reacnar.lovable.app/)
 
 </div>
 
