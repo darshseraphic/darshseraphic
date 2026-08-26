@@ -112,7 +112,7 @@ An elegant, ultra-minimalist financial tracker featuring encrypted local storage
 <b>Target Audience</b><br>
 Students, freelancers, content creators, and privacy-focused individuals who want to track money without sharing data with external servers.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Exomic) • [RELEASE](https://github.com/darshseraphic/Exomic/tree/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Exomic.com/)
+[REPOSITORY](https://github.com/darshseraphic/Exomic) • [RELEASE](https://github.com/darshseraphic/Exomic/tree/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Exomic/)
 
 </div>
 
