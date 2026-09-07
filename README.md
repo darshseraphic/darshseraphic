@@ -56,7 +56,7 @@ Doingnow is a minimal offline habit tracker app focused on routines, reminders, 
 <b>Target Audience</b><br>
 Students, Developers, Designers, and anyone committed to their work.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/doingnow) • [RELEASE](https://github.com/darshseraphic/doingnow/releases/tag/v0.1.0) • [WEBSITE](https://doingnow.lovable.app/)
+[REPOSITORY](https://github.com/darshseraphic/doingnow) • [RELEASE](https://github.com/darshseraphic/doingnow/releases/tag/v0.1.0) • [WEBSITE](https://doingnow.lovable.app/) • [DISCORD](https://discord.gg/nkypD2zen)
 
 </div>
 
@@ -72,7 +72,7 @@ Provides ultra-low-latency, zero-anticipation reflex and reaction training with 
 <b>Target Audience</b><br>
 Runners, sprinters, martial artists, gamers, and high-performance athletes.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Reacnar) • [RELEASE](https://github.com/darshseraphic/Reacnar/releases/tag/v0.1.0) • [WEBSITE](https://reacnar.lovable.app/)
+[REPOSITORY](https://github.com/darshseraphic/Reacnar) • [RELEASE](https://github.com/darshseraphic/Reacnar/releases/tag/v0.1.0) • [WEBSITE](https://reacnar.lovable.app/) • [DISCORD](https://discord.gg/JKXFeWht8)
 
 </div>
 
@@ -88,7 +88,7 @@ Rocen is a free, minimalist, security-first workspace for notes, tasks, and idea
 <b>Target Audience</b><br>
 Privacy-conscious individuals, Security/InfoSec enthusiasts, Open-source, Developers and technical user, Minimalist/brutalist design enthusiasts, and Self-hosters,Journalists, researchers, and professionals<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Rocen) • [RELEASE](https://github.com/darshseraphic/Rocen/releases/tag/v0.4.0) • [WEBSITE](https://rocen.lovable.app/)
+[REPOSITORY](https://github.com/darshseraphic/Rocen) • [RELEASE](https://github.com/darshseraphic/Rocen/releases/tag/v0.4.0) • [WEBSITE](https://rocen.lovable.app/) • [DISCORD](https://discord.gg/zvs32RPb4)
 
 </div>
 
@@ -104,7 +104,7 @@ An elegant, ultra-minimalist financial tracker featuring encrypted local storage
 <b>Target Audience</b><br>
 Students, freelancers, content creators, and privacy-focused individuals who want to track money without sharing data with external servers.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Exomic) • [RELEASE](https://github.com/darshseraphic/Exomic/tree/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Exomic/)
+[REPOSITORY](https://github.com/darshseraphic/Exomic) • [RELEASE](https://github.com/darshseraphic/Exomic/tree/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Exomic/) • [DISCORD](https://discord.gg/33xvM862Q)
 
 </div>
 
@@ -120,7 +120,7 @@ An ultra-minimalist habit-tracking dashboard built on a high-contrast binary sys
 <b>Target Audience</b><br>
 Students, professionals, creators, and anyone focused on maintaining a healthy, balanced lifestyle.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Vidador) • [RELEASE](https://github.com/darshseraphic/Vidador/releases/tag/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Vidador/)
+[REPOSITORY](https://github.com/darshseraphic/Vidador) • [RELEASE](https://github.com/darshseraphic/Vidador/releases/tag/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Vidador/) • [DISCORD](https://discord.gg/edVZgbZ9J)
 
 </div>
 
@@ -136,7 +136,7 @@ Consolidates real-time environmental weather telemetry, gyro-stabilized geospati
 <b>Target Audience</b><br>
 Minimalists, field operators, power-conscious developers, and tactical dashboard enthusiasts.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Luviasun) • [RELEASE](https://github.com/darshseraphic/Luviasun/releases/tag/v0.1.0) • [WEBSITE](https://luviasun.lovable.app)
+[REPOSITORY](https://github.com/darshseraphic/Luviasun) • [RELEASE](https://github.com/darshseraphic/Luviasun/releases/tag/v0.1.0) • [WEBSITE](https://luviasun.lovable.app) • [DISCORD](https://discord.gg/VrEqBhSMr)
 
 </div>
 
@@ -194,4 +194,3 @@ https://darshseraphic.github.io/
 <p align="center">
   <b>English • Hindi • Marathi • Spanish (Learning)</b>
 </p>
-
