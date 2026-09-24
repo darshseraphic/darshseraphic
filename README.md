@@ -10,7 +10,7 @@
 
 <h2 align="center">About</h2>
 <div align="center">
-Developer and design Minimal-Bruthalism apps focused on modern software experiences through application development, interface systems, and thoughtful product design. 
+Developer and design Minimal-Brutalism apps focused on modern software experiences through application development, interface systems, and thoughtful product design. 
 </div>
 <br>
 <div align="center">
