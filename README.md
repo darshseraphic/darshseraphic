@@ -10,7 +10,7 @@
 
 <h2 align="center">About</h2>
 <div align="center">
-Developer and design Minimal-Brutalism apps focused on modern software experiences through application development, interface systems, and thoughtful product design. 
+Developer and designer of Minimal-Brutalist apps focused on modern software experiences through application development, interface systems, and thoughtful product design.
 </div>
 <br>
 <div align="center">
@@ -38,13 +38,14 @@ Focused on building software that feels:
 <div align="center">
 Minimal<br>
 Reliable<br>
-Bruthalism<br>
+Brutalism<br>
 Intentional<br>
 Privacy-Notch<br>
 Localization-based<br>
 </div>
- 
+
 #
+
 <h2 align="center">Projects</h2>
 <div align="center">
 
@@ -54,7 +55,7 @@ Localization-based<br>
 Doingnow is a minimal offline habit tracker app focused on routines, reminders, and long-term consistency through a clean interface with simple weekly, monthly, and yearly progress insights.<br>
 
 <b>Target Audience</b><br>
-Students, Developers, Designers, and anyone committed to their work.<br>
+Students, developers, designers, and anyone committed to their work.<br>
 
 [REPOSITORY](https://github.com/darshseraphic/doingnow) • [RELEASE](https://github.com/darshseraphic/doingnow/releases/tag/v0.1.0) • [WEBSITE](https://doingnow.lovable.app/) • [DISCORD](https://discord.gg/nkypD2zen)
 
@@ -63,11 +64,11 @@ Students, Developers, Designers, and anyone committed to their work.<br>
 #
 
 <div align="center">
-  
+
 ### Reacnar
 
 <b>App Purpose</b><br>
-Provides ultra-low-latency, zero-anticipation reflex and reaction training with comprehensive, locally processed biological benchmark analytics.<br>
+Reacnar provides ultra-low-latency, zero-anticipation reflex and reaction training with comprehensive, locally processed biological benchmark analytics.<br>
 
 <b>Target Audience</b><br>
 Runners, sprinters, martial artists, gamers, and high-performance athletes.<br>
@@ -79,14 +80,14 @@ Runners, sprinters, martial artists, gamers, and high-performance athletes.<br>
 #
 
 <div align="center">
-  
+
 ### Rocen
 
 <b>App Purpose</b><br>
-Rocen is a free, minimalist, security-first workspace for notes, tasks, and ideas — encrypted locally, hardware-bound, and optionally backed up to your own private GitHub repo.<br>
+Rocen is a free, minimalist, security-first workspace for notes, tasks, and ideas — encrypted locally, hardware-bound, and optionally backed up to your own private GitHub repository.<br>
 
 <b>Target Audience</b><br>
-Privacy-conscious individuals, Security/InfoSec enthusiasts, Open-source, Developers and technical user, Minimalist/brutalist design enthusiasts, and Self-hosters,Journalists, researchers, and professionals<br>
+Privacy-conscious individuals, security/InfoSec enthusiasts, open-source enthusiasts, developers and technical users, minimalist/brutalist design enthusiasts, self-hosters, journalists, researchers, and professionals.<br>
 
 [REPOSITORY](https://github.com/darshseraphic/Rocen) • [RELEASE](https://github.com/darshseraphic/Rocen/releases/tag/v0.4.0) • [WEBSITE](https://rocen.lovable.app/) • [DISCORD](https://discord.gg/zvs32RPb4)
 
@@ -99,10 +100,10 @@ Privacy-conscious individuals, Security/InfoSec enthusiasts, Open-source, Develo
 ### Exomic
 
 <b>App Purpose</b><br>
-An elegant, ultra-minimalist financial tracker featuring encrypted local storage, automated daily pace computations for savings pools, dynamic balance linking, and subscription tracking wrapped in a unified monochrome dark/light system.<br>
+Exomic is an elegant, ultra-minimalist financial tracker featuring encrypted local storage, automated daily pace computations for savings pools, dynamic balance linking, and subscription tracking, all wrapped in a unified monochrome dark/light system.<br>
 
 <b>Target Audience</b><br>
-Students, freelancers, content creators, and privacy-focused individuals who want to track money without sharing data with external servers.<br>
+Students, freelancers, content creators, and privacy-focused individuals who want to track their money without sharing data with external servers.<br>
 
 [REPOSITORY](https://github.com/darshseraphic/Exomic) • [RELEASE](https://github.com/darshseraphic/Exomic/tree/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Exomic/) • [DISCORD](https://discord.gg/33xvM862Q)
 
@@ -111,11 +112,11 @@ Students, freelancers, content creators, and privacy-focused individuals who wan
 #
 
 <div align="center">
-  
+
 ### Vidador
 
 <b>App Purpose</b><br>
-An ultra-minimalist habit-tracking dashboard built on a high-contrast binary system. It manages steps, hydration, sleep cycles, and mindfulness timers using a pure black-and-white layout architecture.<br>
+Vidador is an ultra-minimalist habit-tracking dashboard built on a high-contrast binary system. It manages steps, hydration, sleep cycles, and mindfulness timers using a pure black-and-white layout architecture.<br>
 
 <b>Target Audience</b><br>
 Students, professionals, creators, and anyone focused on maintaining a healthy, balanced lifestyle.<br>
@@ -127,11 +128,11 @@ Students, professionals, creators, and anyone focused on maintaining a healthy, 
 #
 
 <div align="center">
-  
+
 ### Luviasun
 
 <b>App Purpose</b><br>
-Consolidates real-time environmental weather telemetry, gyro-stabilized geospatial mapping, localized calendar metric allocation, and a low-overhead terminal arcade benchmark engine into a single monolithic console view.<br>
+Luviasun consolidates real-time environmental weather telemetry, gyro-stabilized geospatial mapping, localized calendar metric allocation, and a low-overhead terminal arcade benchmark engine into a single monolithic console view.<br>
 
 <b>Target Audience</b><br>
 Minimalists, field operators, power-conscious developers, and tactical dashboard enthusiasts.<br>
@@ -143,7 +144,7 @@ Minimalists, field operators, power-conscious developers, and tactical dashboard
 #
 
 <div align="center">
-  
+
 ### Portfolio
 
 <b>About</b><br>
@@ -155,6 +156,7 @@ https://darshseraphic.github.io/
 </div>
 
 #
+
 <h2 align="center">Exploring & Improving</h2>
 <div align="center">
   Scalable Application Architecture • Backend Systems & APIs • Performance Optimization<br>
@@ -178,14 +180,14 @@ https://darshseraphic.github.io/
 </div>
 
 <br>
- 
+
 <h2 align="center">A Bit About Me</h2>
 <div align="center">
   Outside of development, I enjoy exploring creativity through design, visuals, motion, and storytelling. I like building things that feel intentional, minimal, and thoughtfully crafted—whether it’s software, interfaces, videos, or digital experiences.
 </div>
 <br>
 <div align="center">
-  I spend most of my time learning, experimenting with ideas, refining workflows, and turning concepts into real products. I’m especially interested in productivity systems, clean UI design, interaction design, and applications that quietly improve everyday life. Currently focused on growing as both a developer and designer while building independent projects and exploring modern digital experiences.
+  I spend most of my time learning, experimenting with ideas, refining workflows, and turning concepts into real products. I’m especially interested in productivity systems, clean UI design, interaction design, and applications that quietly improve everyday life. I’m currently focused on growing as both a developer and designer while building independent projects and exploring modern digital experiences.
 </div>
 
 #
