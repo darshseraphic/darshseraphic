@@ -145,6 +145,22 @@ Minimalists, field operators, power-conscious developers, and tactical dashboard
 
 <div align="center">
 
+### Studio
+
+<b>App Purpose</b><br>
+Studio is a minimal interactive web terminal that brings together reference tools, calculators, network and mapping utilities, and a GitHub workspace in one focused command-driven interface. It also provides isolated repository previews for working with repository-controlled web content while keeping that content separated from Studio's trusted application context.<br>
+
+<b>Target Audience</b><br>
+Developers, students, designers, technical users, and anyone who prefers a focused terminal-style environment for utilities, information, experimentation, and GitHub-based work.<br>
+
+[REPOSITORY](https://github.com/darshseraphic/Studio) • [WEBSITE](https://darshseraphic.github.io/Studio/)
+
+</div>
+
+#
+
+<div align="center">
+
 ### Portfolio
 
 <b>About</b><br>
