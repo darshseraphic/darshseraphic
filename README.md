@@ -121,7 +121,7 @@ Vidador is an ultra-minimalist habit-tracking dashboard built on a high-contrast
 <b>Target Audience</b><br>
 Students, professionals, creators, and anyone focused on maintaining a healthy, balanced lifestyle.<br>
 
-[REPOSITORY](https://github.com/darshseraphic/Vidador) • [RELEASE](https://github.com/darshseraphic/Vidador/releases/tag/v0.1.0) • [WEBSITE](https://darshseraphic.github.io/Vidador/) • [DISCORD](https://discord.gg/edVZgbZ9J)
+[REPOSITORY](https://github.com/darshseraphic/Vidador) • [RELEASE](https://github.com/darshseraphic/Vidador/releases/tag/v0.1.0) • [WEBSITE](https://vidador.lovable.app/) • [DISCORD](https://discord.gg/edVZgbZ9J)
 
 </div>
 
