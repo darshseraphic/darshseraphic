@@ -208,7 +208,7 @@ https://darshseraphic.github.io/
 
 #
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Communication Languages</h3>
 <p align="center">
   <b>English • Hindi • Marathi • Spanish (Learning)</b>
 </p>
