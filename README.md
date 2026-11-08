@@ -161,6 +161,70 @@ Developers, students, designers, technical users, and anyone who prefers a focus
 
 <div align="center">
 
+### Climano
+
+<b>App Purpose</b><br>
+Climano is a lightweight weather extension for Google Chrome that brings local conditions and short-range forecasts into the browser, including current weather, hourly details, daily highs and lows, and location-based weather information through a compact monochrome interface.<br>
+
+<b>Target Audience</b><br>
+People who want quick access to local weather conditions and clear hourly or daily forecasts without leaving their browser.<br>
+
+[REPOSITORY](https://github.com/darshseraphic/Climano) • [RELEASE](https://github.com/darshseraphic/Climano/releases/tag/v1.1.2) • [WEBSITE](https://darshseraphic.github.io/Climano/)
+
+</div>
+
+#
+
+<div align="center">
+
+### Casidora
+
+<b>App Purpose</b><br>
+Casidora is a local-first scientific, engineering, and everyday calculator for Google Chrome. It brings together arithmetic, scientific and complex-number functions, equation solving, calculus, statistics, unit conversions, matrices, vectors, and calculation memory in a compact popup and expanded workspace.<br>
+
+<b>Target Audience</b><br>
+Students, educators, engineers, and technical users who need everyday, scientific, or specialist calculations in a focused browser-based workspace.<br>
+
+[REPOSITORY](https://github.com/darshseraphic/Casidora) • [RELEASE](https://github.com/darshseraphic/Casidora/releases/tag/v1.3.1) • [WEBSITE](https://darshseraphic.github.io/Casidora/)
+
+</div>
+
+#
+
+<div align="center">
+
+### Pemintos
+
+<b>App Purpose</b><br>
+Pemintos is a calm, local-first notepad for Google Chrome. It supports quick drafts with automatic saving, a separate saved-notes library, a full-page editor, and plain-text exports, keeping notes in the browser without requiring an account or cloud service.<br>
+
+<b>Target Audience</b><br>
+Writers, students, developers, and anyone who wants a distraction-free place to draft, organize, edit, and export notes while keeping them stored locally in the browser.<br>
+
+[REPOSITORY](https://github.com/darshseraphic/Pemintos) • [RELEASE](https://github.com/darshseraphic/Pemintos/releases/tag/v1.1.0) • [WEBSITE](https://darshseraphic.github.io/Pemintos/)
+
+</div>
+
+#
+
+<div align="center">
+
+### Votrixain
+
+<b>App Purpose</b><br>
+Votrixain is a privacy-focused Chrome extension that removes recognized tracking parameters from URLs while preserving useful query parameters on supported links. It offers manual URL cleanup in the popup and optional automatic cleanup for websites the user explicitly permits.<br>
+
+<b>Target Audience</b><br>
+Privacy-conscious browser users who want to clean tracking parameters from links, share tidier URLs, and control optional automatic URL cleanup on a per-website basis.<br>
+
+[REPOSITORY](https://github.com/darshseraphic/Votrixain) • [RELEASE](https://github.com/darshseraphic/Votrixain/releases/tag/0.4.4) • [WEBSITE](https://darshseraphic.github.io/Votrixain/)
+
+</div>
+
+#
+
+<div align="center">
+
 ### Portfolio
 
 <b>About</b><br>
