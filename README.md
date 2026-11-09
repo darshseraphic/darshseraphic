@@ -225,6 +225,22 @@ Privacy-conscious browser users who want to clean tracking parameters from links
 
 <div align="center">
 
+### Gitamrta
+
+<b>App Purpose</b><br>
+Gitamrta is a minimal Chrome extension for reading and exploring the Bhagavad Gita. It helps users discover shlokas through a random chapter and verse selector or direct chapter/shloka search, then presents the original Sanskrit, Roman-script transliteration, available English translations, and Hindi commentaries in a focused reading interface.<br>
+
+<b>Target Audience</b><br>
+Readers, students, and anyone interested in exploring the Bhagavad Gita who wants quick access to individual shlokas, transliterations, translations, and commentaries directly from the browser.<br>
+
+[REPOSITORY](https://github.com/darshseraphic/Gitamrta) • [RELEASE](https://github.com/darshseraphic/Gitamrta/releases/tag/v1.1.1) • [WEBSITE](https://darshseraphic.github.io/Gitamrta/)
+
+</div>
+
+#
+
+<div align="center">
+
 ### Portfolio
 
 <b>About</b><br>
