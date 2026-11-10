@@ -241,6 +241,22 @@ Readers, students, and anyone interested in exploring the Bhagavad Gita who want
 
 <div align="center">
 
+### Mikveh
+
+<b>App Purpose</b><br>
+Mikveh is a focused Bible verse finder for Google Chrome. It displays a random Bible verse when opened, supports passage lookup by reference, and lets users copy verses with their references in a compact popup with System, Light, and Dark themes.<br>
+
+<b>Target Audience</b><br>
+Readers, students, and anyone who wants quick access to Bible verses and passage lookup directly from their browser.<br>
+
+[REPOSITORY](https://github.com/darshseraphic/Mikveh) • [WEBSITE](https://darshseraphic.github.io/Mikveh/)
+
+</div>
+
+#
+
+<div align="center">
+
 ### Portfolio
 
 <b>About</b><br>
