@@ -159,6 +159,7 @@ Developers, students, designers, technical users, and anyone who prefers a focus
 
 #
 
+<h2 align="center">Extensions</h2>
 <div align="center">
 
 ### Climano
